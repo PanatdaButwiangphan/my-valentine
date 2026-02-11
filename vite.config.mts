@@ -58,6 +58,7 @@ export default defineConfig({
       },
     }),
   ],
+  base: '/my-valentine/',
   optimizeDeps: {
     exclude: [
       'vuetify',

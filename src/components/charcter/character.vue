@@ -1,5 +1,4 @@
 <script setup lang="ts">
-import Calendar from "../component/calendar.vue";
 import Navbar from "../component/navbar.vue";
 import { characterData } from "@/data/character";
 import douluvme from "@/assets/img/douluvme.jpg";

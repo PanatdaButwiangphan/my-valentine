@@ -15,8 +15,6 @@ declare module 'vue' {
     Calendar: typeof import('./components/component/calendar.vue')['default']
     CameraAccess: typeof import('./components/CameraAccess.vue')['default']
     Character: typeof import('./components/charcter/character.vue')['default']
-    DressUpGame: typeof import('./components/DressUpGame.vue')['default']
-    HelloWorld: typeof import('./components/login.vue')['default']
     Login: typeof import('./components/login.vue')['default']
     Navbar: typeof import('./components/component/navbar.vue')['default']
     RouterLink: typeof import('vue-router')['RouterLink']
