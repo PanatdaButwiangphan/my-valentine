@@ -5,7 +5,6 @@ import douluvme from "@/assets/img/douluvme.jpg";
 import why from "@/assets/img/hh.jpg";
 import kill from "@/assets/img/kill.jpg";
 import giveu from "@/assets/img/giveu.png";
-import {onMounted} from 'vue'
 const Mapping: Ref<any> = ref<any>(characterData);
 const showFirework = ref(false)
 const count = ref(1);
